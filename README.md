@@ -4,4 +4,4 @@ COLABORADORES DO PROJETO : Samuel , Lucas e Adrian
 
 Link do Repositorio front end feito em React
 
-https://github.com/lucas-Panda/myFrontAgenda.git
+https://github.com/LucasMandaro/myFrontAgenda.git
